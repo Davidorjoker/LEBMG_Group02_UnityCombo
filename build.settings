@@ -1,0 +1,13 @@
+-- build.settings for project: SaturnInvader
+-- used by the course : Learning English by Making Mobile Games -- Advanced
+-- Dr. Twobears ( Chi-Hsiung Liang)
+-- build.settings
+settings =
+{
+	orientation =
+	{
+		default = "landscapeRight",
+		supported = { "landscapeLeft", "landscapeRight" }
+	},
+
+}
